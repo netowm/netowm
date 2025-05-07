@@ -4,18 +4,20 @@
 Olá! Me chamo Wilson Neto, tenho 18 anos e moro em Curitiba, PR. Conclui meu ensino médio no Colégio da Polícia Militar do Paraná e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. Hoje foco no desenvolvimento de interfaces modernas, responsivas e funcionais, proporcionando experiências digitais envolventes para os usuários. Estou constantemente aprendendo e aprimorando minhas habilidades, com o objetivo de me tornar um desenvolvedor full-stack no futuro.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/netowm/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal"
+            alt="LinkedIn" 
+            title="LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155ba?logo=linkedin-netowm&logoColor=white&style=for-the-badge&labelColor=1155ba"
+            target="_blank"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.instagram.com/netowm_/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="Instagram" 
+            title="Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-8a3ab9?logo=instagram&logoColor=white&style=for-the-badge&labelColor=8a3ab9"
+            target="_blank"
         />
     </a> 
 </p>
