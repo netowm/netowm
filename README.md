@@ -48,6 +48,6 @@ Olá! Me chamo Wilson Neto, tenho 18 anos e moro em Curitiba, PR. Conclui meu en
 ### 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=netowm&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=netowm&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula" alt="Estatísticas do GitHub de netowm" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netowm&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
